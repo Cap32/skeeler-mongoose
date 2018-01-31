@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/Cap32/skeeler-mongoose.svg?branch=master)](https://travis-ci.org/Cap32/skeeler-mongoose)
 [![Coverage Status](https://coveralls.io/repos/github/Cap32/skeeler-mongoose/badge.svg?branch=master)](https://coveralls.io/github/Cap32/skeeler-mongoose?branch=master)
 
-[WIP] JSON Schema Draft 6 plugin for [Skeeler](https://github.com/Cap32/skeeler)
+Mongoose plugin for [Skeeler](https://github.com/Cap32/skeeler)
 
 ## Table of Contents
 
