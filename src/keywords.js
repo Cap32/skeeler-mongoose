@@ -29,9 +29,12 @@ export default {
 	get: setter,
 	validate: setter,
 	ref: setter,
+	refPath: setter,
 
 	lowercase: setDefaultTrue,
 	uppercase: setDefaultTrue,
+	maxLength: setter,
+	minLength: setter,
 	trim: setDefaultTrue,
 	match: setter,
 	enum: setter,
